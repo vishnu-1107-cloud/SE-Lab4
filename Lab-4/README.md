@@ -1,5 +1,9 @@
 # Lunar Lander Repair Lab
 
+**Student:** Vishnu Maddirala  
+**SRN:** PES2UG24CS593  
+**Personal repository:** [vishnu-1107-cloud/SE-Lab4](https://github.com/vishnu-1107-cloud/SE-Lab4)
+
 This project is a single-file Lunar Lander-lite clone using **Pygame**. It introduces students to vector physics, procedural terrain generation, and multi-condition landing validation using a small, readable object-oriented codebase.
 
 ---
